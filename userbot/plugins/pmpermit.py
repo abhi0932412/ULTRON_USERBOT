@@ -10,7 +10,7 @@ from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  WARN_PIC = "http://pa1.narvii.com/7128/ab43261ecaab5deb4daaf6591052526c279dfdcfr1-220-186_00.gif"
+  WARN_PIC = "http://allmoviegifs.tumblr.com/post/61745577113"
 else:
   WARN_PIC = PMPERMIT_PIC
 
