@@ -10,7 +10,7 @@ from userbot.utils import admin_cmd
 
 PMPERMIT_PIC = os.environ.get("PMPERMIT_PIC", None)
 if PMPERMIT_PIC is None:
-  WARN_PIC = "http://allmoviegifs.tumblr.com/post/61745577113"
+  WARN_PIC = "https://media3.giphy.com/media/l49JGqIMC2uDsIPG8/giphy.gif?cid=ecf05e47t7ckrv8ntulmwr1zagurrb2hpbklobewg31y3w2p&rid=giphy.gif"
 else:
   WARN_PIC = PMPERMIT_PIC
 
@@ -21,7 +21,7 @@ PREV_REPLY_MESSAGE = {}
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
 CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**Didn't ya read my username? Well if I have contacted you before and we have chatted, I will definitely aprrove you. And if we have not, THEN GET REPORTED OR WAIT, AND DON'T SPAM OVER HERE OR ELSE BLOCKED AND REPORTED**"
 USER_BOT_WARN_ZERO = "You Were \n`╔══╗╔╗──────╔╗──────╔╗\n║╔╗║║║──────║║──────║║\n║╚╝╚╣║╔══╦══╣║╔╦══╦═╝║\n║╔═╗║║║╔╗║╔═╣╚╝╣║═╣╔╗║\n║╚═╝║╚╣╚╝║╚═╣╔╗╣║═╣╚╝║\n╚═══╩═╩══╩══╩╝╚╩══╩══╝` \nDue To Trying To Spam Inbox Of My Master !"
-USER_BOT_NO_WARN = ("`Hello My Friend ! This is` **T.E.C.H**\n"
+USER_BOT_NO_WARN = ("`Hello My Friend ! This is` **U.L.T.R.O.N**\n"
                     "`Private Messaging Security Protocol ⚠️`\n\n"
                     "**Currently My Boss**\n"
                     f"{DEFAULTUSER} is Busy ! Please Don't Spam My Masters Inbox\n\n"
