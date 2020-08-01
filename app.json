@@ -1,7 +1,7 @@
 {
-  "name": "FRIDAY",
-  "description": "Userbot created by a @Mariodevs and join https://t.me/fridaySupportOfficial for any problems or support",
-  "logo": "https://telegra.ph/file/c3ba2e9b965f624936358.png",
+  "name": "ULTRON",
+  "description": "Userbot created by a @brucetech and join https://t.me/chromatech98 for any problems or support",
+  "logo": "https://raw.githubusercontent.com/ultron78/ULTRON-USERBOT/master/ULTRON%20(1).jpg",
     "keywords": [
     "telegram",
     "userbot",
@@ -9,7 +9,7 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/STARKGANG/FridayUserbot/",
+  "repository": "https://github.com/ultron78/ULTRON_USERBOT.git/",
   "website": "#TODO",
   "success_url": "#TODO",
   "env": {
