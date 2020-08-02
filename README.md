@@ -76,7 +76,7 @@ API_HASH: https://my.telegram.org/auth
 
 APP_ID: https://my.telegram.org/auth 
 
-DOWNLOAD_PFP_URL_CLOCK: @vTelegraphBot
+DOWNLOAD_PFP_URL_CLOCK: https://t.me/vTelegraphBot
 
 GITHUB_ACCESS_TOKEN: https://github.com/ 
 
@@ -84,10 +84,10 @@ HEROKU_API_KEY: https://dashboard.heroku.com/account
 
 STRING_SESSION: https://friday.starkgang.repl.run/ Special thanks to @starkxd for the string session tool
 
-Rose Bot: @MissRose_bot 
+Rose Bot: https://t.me/MissRose_bot 
 
-SUDO_USERS: @MissRose_bot 
+SUDO_USERS: https://t.me/MissRose_bot  
 
-TG_BOT_TOKEN_BF_HER: @BotFather 
+TG_BOT_TOKEN_BF_HER: https://t.me/BotFather 
 
 TZ: http://www.timezoneconverter.com/cgi-bin/findzone.tzc
