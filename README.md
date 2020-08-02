@@ -72,9 +72,9 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 ## THINGS NEEDED
 REPO: https://github.com/ultron78/ULTRON_USERBOT.git
 
-API_HASH: my.telegram.org 
+API_HASH: https://my.telegram.org/auth 
 
-APP_ID: my.telegram.org 
+APP_ID: https://my.telegram.org/auth 
 
 DOWNLOAD_PFP_URL_CLOCK: @vTelegraphBot
 
