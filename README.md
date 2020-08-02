@@ -67,3 +67,16 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
     - `APP_ID`:   You can get this value from https://my.telegram.org
     - `API_HASH`:   You can get this value from https://my.telegram.org
 - The userbot will not work without setting the mandatory vars.
+
+
+## THINGS NEEDED
+REPO: https://github.com/ultron78/ULTRON_USERBOT.git
+API_HASH: my.telegram.org APP_ID: my.telegram.org 
+DOWNLOAD_PFP_URL_CLOCK: @vTelegraphBot
+GITHUB_ACCESS_TOKEN: https://github.com/ 
+HEROKU_API_KEY: https://dashboard.heroku.com/account 
+STRING_SESSION: https://friday.starkgang.repl.run/ Special thanks to @starkxd for the string session tool
+Rose Bot: @MissRose_bot 
+SUDO_USERS: @MissRose_bot 
+TG_BOT_TOKEN_BF_HER: @BotFather 
+TZ: http://www.timezoneconverter.com/cgi-bin/findzone.tzc
