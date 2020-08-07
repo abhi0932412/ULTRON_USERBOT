@@ -19,7 +19,7 @@ PREV_REPLY_MESSAGE = {}
 
 
 DEFAULTUSER = str(ALIVE_NAME) if ALIVE_NAME else "Set ALIVE_NAME in config vars in Heroku"
-CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**Didn't ya read my username? Well if I have contacted you before and we have chatted, I will definitely aprrove you. And if we have not, THEN GET REPORTED OR WAIT, AND DON'T SPAM OVER HERE OR ELSE BLOCKED AND REPORTED**"
+CUSTOM_MIDDLE_PMP = str(CUSTOM_PMPERMIT) if CUSTOM_PMPERMIT else "**DON'T SPAM OVER HERE OR ELSE BLOCKED AND REPORTED**"
 USER_BOT_WARN_ZERO = "You Were \n`╔══╗╔╗──────╔╗──────╔╗\n║╔╗║║║──────║║──────║║\n║╚╝╚╣║╔══╦══╣║╔╦══╦═╝║\n║╔═╗║║║╔╗║╔═╣╚╝╣║═╣╔╗║\n║╚═╝║╚╣╚╝║╚═╣╔╗╣║═╣╚╝║\n╚═══╩═╩══╩══╩╝╚╩══╩══╝` \nDue To Trying To Spam Inbox Of My Master !"
 USER_BOT_NO_WARN = ("`Hello My Friend ! This is` **U.L.T.R.O.N**\n"
                     "`Private Messaging Security Protocol ⚠️`\n\n"
